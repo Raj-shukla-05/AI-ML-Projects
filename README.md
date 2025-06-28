@@ -3,41 +3,49 @@
 Welcome to my AI & Machine Learning portfolio!  
 This repository showcases hands-on projects completed during my learning journey.
 
-Each project focuses on real-world problems and applies ML/DL techniques using Python, Scikit-learn, TensorFlow, and more.
+Each project solves a real-world problem using techniques from machine learning, deep learning, computer vision, and NLP — implemented using Python, Scikit-learn, TensorFlow/Keras, and more.
 
 ---
 
 ## 📂 Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 📩 **Email Spam Detection** | Classify emails as spam or ham using TF-IDF & Naive Bayes | [View Folder](./Email-Spam-Detection) |
-| 🏦 **Loan Eligibility Predictor** | Predict loan approval using logistic regression on tabular financial data | [View Folder](./Loan-Eligibility-Predictor) |
-| 🎬 **Movie Recommendation System** | Recommend movies using collaborative filtering and user behavior | [View Folder](./Movie-Recommendation-System) |
-| 📰 **Fake News Detection** | Detect whether a news article is real or fake using Passive Aggressive Classifier | [View Folder](./Fake-News-Detection) |
-| 🔢 **Handwritten Digit Recognition** | Recognize handwritten digits using CNN and the MNIST dataset | [View Folder](./Handwritten-Digit-Recognition) |
-| 📈 **Stock Price Prediction (LSTM)** | Predict future stock prices using deep learning and LSTM on Apple stock data | [View Folder](./Stock-Price-Prediction) |
-| 😃 **Emotion Detection from Text** | Detect emotional tone from user input using NLP + TF-IDF + Logistic Regression | [View Folder](./Emotion-Detection-from-Text) |
+| # | Project | Description | Link |
+|--:|---------|-------------|------|
+| 1️⃣ | 📩 **Email Spam Detection** | Classify emails as spam or ham using TF-IDF & Naive Bayes | [View Folder](./Email-Spam-Detection) |
+| 2️⃣ | 🏦 **Loan Eligibility Predictor** | Predict loan approval using logistic regression on financial data | [View Folder](./Loan-Eligibility-Predictor) |
+| 3️⃣ | 🎬 **Movie Recommendation System** | Recommend similar movies using collaborative filtering | [View Folder](./Movie-Recommendation-System) |
+| 4️⃣ | 📰 **Fake News Detection** | Detect fake news articles using TF-IDF & Passive Aggressive Classifier | [View Folder](./Fake-News-Detection) |
+| 5️⃣ | 🔢 **Handwritten Digit Recognition** | Recognize handwritten digits using CNN and the MNIST dataset | [View Folder](./Handwritten-Digit-Recognition) |
+| 6️⃣ | 📈 **Stock Price Prediction (LSTM)** | Predict Apple stock prices using LSTM and historical data | [View Folder](./Stock-Price-Prediction) |
+| 7️⃣ | 😃 **Emotion Detection from Text** | Classify emotional tone from input text using NLP + Logistic Regression | [View Folder](./Emotion-Detection-from-Text) |
+| 8️⃣ | 🌿 **Plant Disease Detection (CNN)** | Identify plant leaf diseases using deep CNN on images | [View Folder](./Plant-Disease-Detection) |
 
 ---
 
-## 🧠 Skills Learned
-- Supervised ML (Logistic Regression, Naive Bayes, Passive Aggressive)
-- NLP & Text Classification (TF-IDF, LogisticRegression, Emotion Labels)
-- Recommender Systems (Collaborative Filtering)
-- Image Classification with CNN (TensorFlow/Keras)
-- Time Series Forecasting with LSTM (Sequential RNNs)
-- Streamlit Web UI for Real-Time Interaction
-- Model Evaluation: Accuracy, F1 Score, Confusion Matrix, Loss Curves
-- Data Cleaning, Feature Engineering, Scaling, Sequence Modeling
-- GitHub Workflow & Project Documentation
+## 🧠 Skills Gained
+- 📊 Supervised ML (Logistic Regression, Naive Bayes, Passive Aggressive)
+- 🔡 NLP: TF-IDF, text classification, emotion analysis
+- 🤝 Recommender Systems (Collaborative Filtering)
+- 🧠 Deep Learning: CNN for image classification, LSTM for time series
+- 🧼 Data Cleaning, Feature Engineering, Scaling
+- 📈 Model Evaluation: Accuracy, Precision, F1 Score, Confusion Matrix
+- 🧪 Visualization (Seaborn, Matplotlib), Plotting metrics
+- 💻 GitHub Project Management & Workflow
 
 ---
 
-## 🚀 Coming Soon
-- 🌱 Plant Disease Detection (CNN + Image Augmentation)
-- 🧠 Custom Image Prediction from Uploaded Input
-- 🌐 Streamlit Web UI deployment for selected models
+## 🚀 Bonus Highlights
+- ✅ Streamlit UI (for some models like Emotion Detection)
+- ✅ Multi-model structure across NLP, CV, and Time-Series domains
+- ✅ Modular & reproducible code for easy experimentation
+
+---
+
+## 🛠 Tools & Libraries
+- Python · Pandas · NumPy
+- Scikit-learn · TensorFlow · Keras
+- Matplotlib · Seaborn · Streamlit (for UI)
+- Jupyter Notebooks · VS Code
 
 ---
 
@@ -47,5 +55,7 @@ Each project focuses on real-world problems and applies ML/DL techniques using P
 
 ---
 
-⭐️ Feel free to explore the folders and give feedback.  
-📌 Fork the repo, clone it, or try the projects yourself!
+## ⭐️ Feedback Welcome
+Fork the repo, explore the folders, test the code — and feel free to share feedback or suggestions.
+
+Thanks for visiting! 🚀
