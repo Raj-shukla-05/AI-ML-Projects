@@ -3,7 +3,7 @@
 Welcome to my AI & Machine Learning portfolio!  
 This repository showcases hands-on projects completed during my learning journey.
 
-Each project focuses on real-world problems and applies core ML techniques using Python, Scikit-learn, TensorFlow, and more.
+Each project focuses on real-world problems and applies ML/DL techniques using Python, Scikit-learn, TensorFlow, and more.
 
 ---
 
@@ -16,25 +16,28 @@ Each project focuses on real-world problems and applies core ML techniques using
 | 🎬 **Movie Recommendation System** | Recommend movies using collaborative filtering and user behavior | [View Folder](./Movie-Recommendation-System) |
 | 📰 **Fake News Detection** | Detect whether a news article is real or fake using Passive Aggressive Classifier | [View Folder](./Fake-News-Detection) |
 | 🔢 **Handwritten Digit Recognition** | Recognize handwritten digits using CNN and the MNIST dataset | [View Folder](./Handwritten-Digit-Recognition) |
+| 📈 **Stock Price Prediction (LSTM)** | Predict future stock prices using deep learning and LSTM on Apple stock data | [View Folder](./Stock-Price-Prediction) |
+| 😃 **Emotion Detection from Text** | Detect emotional tone from user input using NLP + TF-IDF + Logistic Regression | [View Folder](./Emotion-Detection-from-Text) |
 
 ---
 
 ## 🧠 Skills Learned
 - Supervised ML (Logistic Regression, Naive Bayes, Passive Aggressive)
-- NLP: Text Vectorization (TF-IDF), Classification
+- NLP & Text Classification (TF-IDF, LogisticRegression, Emotion Labels)
 - Recommender Systems (Collaborative Filtering)
 - Image Classification with CNN (TensorFlow/Keras)
-- Data Cleaning & Preprocessing
-- Model Evaluation: Accuracy, F1 Score, Confusion Matrix
-- GitHub & Version Control
+- Time Series Forecasting with LSTM (Sequential RNNs)
+- Streamlit Web UI for Real-Time Interaction
+- Model Evaluation: Accuracy, F1 Score, Confusion Matrix, Loss Curves
+- Data Cleaning, Feature Engineering, Scaling, Sequence Modeling
+- GitHub Workflow & Project Documentation
 
 ---
 
 ## 🚀 Coming Soon
 - 🌱 Plant Disease Detection (CNN + Image Augmentation)
-- 😃 Emotion Detection from Text
 - 🧠 Custom Image Prediction from Uploaded Input
-- 🌐 Streamlit Web UI for selected models
+- 🌐 Streamlit Web UI deployment for selected models
 
 ---
 
