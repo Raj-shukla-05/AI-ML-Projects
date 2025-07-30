@@ -19,6 +19,7 @@ Each project solves a real-world problem using techniques from machine learning,
 | 6️⃣ | 📈 **Stock Price Prediction (LSTM)** | Predict Apple stock prices using LSTM and historical data | [View Folder](./Stock-Price-Prediction) |
 | 7️⃣ | 😃 **Emotion Detection from Text** | Classify emotional tone from input text using NLP + Logistic Regression | [View Folder](./Emotion-Detection-from-Text) |
 | 8️⃣ | 🌿 **Plant Disease Detection (CNN)** | Identify plant leaf diseases using deep CNN on images | [View Folder](./Plant-Disease-Detection) |
+| 9️⃣ | 🧠 **Early Disease Risk Prediction** | Predict risk of diabetes using ML models (LogReg, RF, XGBoost) + SHAP + Streamlit app | [View Folder](./Early-Disease-Risk-Prediction) |
 
 ---
 
